@@ -1,0 +1,23 @@
+{
+  "name": "geochatnodejs",
+  "version": "1.0.0",
+  "description": "REST API for GeoChat mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AL1ve1T",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "express": "^4.16.3",
+    "express-stormpath": "^4.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "log4js": "^3.0.0",
+    "mysql": "^2.15.0",
+    "nconf": "^0.10.0",
+    "nodemailer": "^4.6.7",
+    "twilio": "^3.18.0"
+  }
+}

@@ -1,0 +1,466 @@
+[2018-07-16T18:32:53.607] [INFO] logfile - Server started on port 3000
+[2018-07-16T19:24:05.398] [INFO] logfile - Server started on port 3000
+[2018-07-16T20:54:17.968] [INFO] logfile - Server started on port 3000
+[2018-07-16T20:55:12.201] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:02:28.618] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:07:05.374] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:07:35.609] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:14:31.660] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:16:51.762] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:25:44.860] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:40:01.645] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:59:06.987] [INFO] logfile - Server started on port 3000
+[2018-07-16T21:59:42.019] [INFO] logfile - Server started on port 3000
+[2018-07-16T22:01:13.923] [INFO] logfile - Server started on port 3000
+[2018-07-16T22:02:26.609] [INFO] logfile - Server started on port 3000
+[2018-07-16T22:04:20.394] [INFO] logfile - Server started on port 3000
+[2018-07-16T22:12:44.880] [INFO] logfile - Server started on port 3000
+[2018-07-16T22:36:05.445] [INFO] logfile - Server started on port 3000
+[2018-07-16T22:53:09.202] [INFO] logfile - Server started on port 3000
+[2018-07-16T22:53:57.107] [INFO] logfile - Server started on port 3000
+[2018-07-16T23:00:25.073] [INFO] logfile - Server started on port 3000
+[2018-07-16T23:01:55.925] [INFO] logfile - Server started on port 3000
+[2018-07-16T23:03:24.653] [INFO] logfile - Server started on port 3000
+[2018-07-17T01:11:42.531] [INFO] logfile - Server started on port 3000
+[2018-07-17T01:16:46.169] [INFO] logfile - Server started on port 3000
+[2018-07-17T01:22:59.303] [INFO] logfile - Server started on port 3000
+[2018-07-17T01:52:29.450] [INFO] logfile - Server started on port 3000
+[2018-07-17T02:06:27.568] [INFO] logfile - Server started on port 3000
+[2018-07-17T02:07:19.463] [INFO] logfile - Server started on port 3000
+[2018-07-17T02:08:54.201] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:10:26.354] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:11:25.660] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:13:58.947] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:22:18.554] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:40:57.844] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:46:22.262] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:51:21.990] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:52:21.294] [INFO] logfile - Server started on port 3000
+[2018-07-17T13:57:38.423] [INFO] logfile - Server started on port 3000
+[2018-07-17T14:07:42.638] [INFO] logfile - Server started on port 3000
+[2018-07-17T14:12:33.750] [INFO] logfile - Server started on port 3000
+[2018-07-17T14:24:24.388] [INFO] logfile - Server started on port 3000
+[2018-07-17T14:26:30.056] [INFO] logfile - Server started on port 3000
+[2018-07-17T14:28:07.303] [INFO] logfile - Server started on port 3000
+[2018-07-17T14:32:22.087] [INFO] logfile - Server started on port 3000
+[2018-07-17T14:54:05.201] [INFO] logfile - Server started on port 3000
+[2018-07-22T13:18:48.350] [INFO] logfile - Server started on port 3000
+[2018-07-22T13:23:47.213] [INFO] logfile - Server started on port 3000
+[2018-07-22T13:45:43.229] [INFO] logfile - Server started on port 3000
+[2018-07-22T17:53:21.038] [INFO] logfile - Server started on port 3000
+[2018-07-22T20:47:17.559] [INFO] logfile - Server started on port 3000
+[2018-07-22T20:47:17.579] [INFO] logfile - Connected to MySQL database
+[2018-07-22T20:47:43.880] [ERROR] logfile - +994519427553Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (0x34264365726384635278164198724656' at line 2
+[2018-07-22T20:56:40.841] [INFO] logfile - Server started on port 3000
+[2018-07-22T20:56:40.849] [INFO] logfile - Connected to MySQL database
+[2018-07-22T20:56:46.690] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (0x34264365726384635278164198724656' at line 2
+[2018-07-23T13:59:46.608] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T14:01:04.515] [INFO] logfile - Server started on port 3000
+[2018-07-23T14:01:04.534] [INFO] logfile - Connected to MySQL database
+[2018-07-23T14:01:08.569] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T14:01:17.673] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (0x34264365726384635278164198724656' at line 2
+[2018-07-23T14:03:45.427] [INFO] logfile - Server started on port 3000
+[2018-07-23T14:03:45.438] [INFO] logfile - Connected to MySQL database
+[2018-07-23T14:03:50.690] [INFO] logfile - Server started on port 3000
+[2018-07-23T14:03:50.699] [INFO] logfile - Connected to MySQL database
+[2018-07-23T14:04:03.305] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T14:33:04.957] [INFO] logfile - Server started on port 3000
+[2018-07-23T14:33:04.965] [INFO] logfile - Connected to MySQL database
+[2018-07-23T14:33:10.284] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T14:33:16.484] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (0x34264365726384635278164198724656' at line 2
+[2018-07-23T14:33:40.117] [INFO] logfile - Server started on port 3000
+[2018-07-23T14:33:40.127] [INFO] logfile - Connected to MySQL database
+[2018-07-23T14:33:43.110] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T14:33:46.841] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (0x34264365726384635278164198724656' at line 2
+[2018-07-23T14:56:33.382] [INFO] logfile - Server started on port 3000
+[2018-07-23T14:56:33.390] [INFO] logfile - Connected to MySQL database
+[2018-07-23T14:56:37.454] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T15:50:33.047] [INFO] logfile - Server started on port 3000
+[2018-07-23T15:50:33.060] [INFO] logfile - Connected to MySQL database
+[2018-07-23T15:50:48.471] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T15:51:54.938] [INFO] logfile - Server started on port 3000
+[2018-07-23T15:51:54.946] [INFO] logfile - Connected to MySQL database
+[2018-07-23T15:51:58.178] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T15:52:02.494] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (0x34264365726384635278164198724656' at line 2
+[2018-07-23T15:54:13.732] [INFO] logfile - Server started on port 3000
+[2018-07-23T15:54:13.740] [INFO] logfile - Connected to MySQL database
+[2018-07-23T15:54:16.381] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T15:54:20.383] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (0x34264365726384635278164198724656' at line 2
+[2018-07-23T15:54:49.060] [INFO] logfile - Server started on port 3000
+[2018-07-23T15:54:49.067] [INFO] logfile - Connected to MySQL database
+[2018-07-23T15:54:55.352] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (0x34264365726384635278164198724656' at line 2
+[2018-07-23T15:55:00.672] [ERROR] logfile - undefined Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (main_photo) VALUE (undefined)' at line 2
+[2018-07-23T17:24:07.758] [INFO] logfile - Server started on port 3000
+[2018-07-23T17:24:07.768] [INFO] logfile - Connected to MySQL database
+[2018-07-23T17:24:11.490] [ERROR] logfile - undefined Error: ER_BAD_FIELD_ERROR: Unknown column 'Elnur' in 'field list'
+[2018-07-23T19:22:59.417] [INFO] logfile - Server started on port 3000
+[2018-07-23T19:22:59.426] [INFO] logfile - Connected to MySQL database
+[2018-07-23T20:26:28.371] [INFO] logfile - Server started on port 3000
+[2018-07-23T20:26:28.379] [INFO] logfile - Connected to MySQL database
+[2018-07-23T20:30:11.423] [ERROR] logfile - +994519427553 Error: ER_BAD_FIELD_ERROR: Unknown column 'Elnur' in 'field list'
+[2018-07-23T20:34:11.457] [INFO] logfile - Server started on port 3000
+[2018-07-23T20:34:11.467] [INFO] logfile - Connected to MySQL database
+[2018-07-23T20:34:15.516] [ERROR] logfile - +994519427553 Error: ER_BAD_FIELD_ERROR: Unknown column 'Elnur' in 'field list'
+[2018-07-23T20:34:29.370] [ERROR] logfile - +994519427553 Error: ER_BAD_FIELD_ERROR: Unknown column 'Elnur' in 'field list'
+[2018-07-23T20:35:28.816] [ERROR] logfile - +994519427553 Error: ER_BAD_FIELD_ERROR: Unknown column 'Elnur' in 'field list'
+[2018-07-23T20:57:25.120] [INFO] logfile - Server started on port 3000
+[2018-07-23T20:57:25.128] [INFO] logfile - Connected to MySQL database
+[2018-07-23T20:57:27.999] [ERROR] logfile - +994519427553 Error: ER_BAD_FIELD_ERROR: Unknown column 'Elnur' in 'field list'
+[2018-07-23T20:57:40.992] [ERROR] logfile - +994519427553 Error: ER_BAD_FIELD_ERROR: Unknown column 'Azad' in 'field list'
+[2018-07-23T21:00:31.862] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:00:31.870] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:00:36.460] [ERROR] logfile - +994519427553 Error: ER_BAD_FIELD_ERROR: Unknown column 'Azad' in 'field list'
+[2018-07-23T21:03:25.497] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:03:25.505] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:03:28.568] [ERROR] logfile - +994519427553 Error: ER_BAD_FIELD_ERROR: Unknown column 'Azad' in 'field list'
+[2018-07-23T21:17:27.394] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:17:27.403] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:17:32.536] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+[2018-07-23T21:17:56.004] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:17:56.012] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:17:59.145] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '', '03/04/2017', '+994519427553', 'm', '4u3t98esgrhu94w');'' at line 1
+[2018-07-23T21:18:55.044] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:18:55.052] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:19:00.835] [ERROR] logfile - +994519427553 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '', '03/04/2017', '+994519427553', 'm', '4u3t98esgrhu94w');'' at line 1
+[2018-07-23T21:25:16.895] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:25:16.905] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:25:21.418] [ERROR] logfile - +994519427553 Error: ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '03/04/2017' for column 'birthdate' at row 1
+[2018-07-23T21:31:34.494] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:31:34.506] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:31:36.691] [ERROR] logfile - +994519427553 Error: ER_NO_DEFAULT_FOR_FIELD: Field 'min_age' doesn't have a default value
+[2018-07-23T21:33:08.065] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:33:08.073] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:33:11.854] [INFO] logfile - +994519427553[object Object]
+[2018-07-23T21:37:14.123] [ERROR] logfile - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+    at Query.Sequence._packetToError (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+    at Query.ErrorPacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:279:23)
+    at Parser.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:103:28)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    --------------------
+    at Protocol._enqueue (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:145:48)
+    at Connection.query (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:208:25)
+    at module.exports (/Users/AliveIT/Desktop/GeoChatNODEJS/routes/login.js:18:8)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/routes/index.js:28:9
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:335:12)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \')\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql:
+   'SELECT DISTINCT * FROM Profile WHERE phone_number = +994519427553)' }
+[2018-07-23T21:37:35.567] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:37:35.575] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:37:37.569] [ERROR] logfile - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+    at Query.Sequence._packetToError (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+    at Query.ErrorPacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:279:23)
+    at Parser.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:103:28)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    --------------------
+    at Protocol._enqueue (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:145:48)
+    at Connection.query (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:208:25)
+    at module.exports (/Users/AliveIT/Desktop/GeoChatNODEJS/routes/login.js:20:8)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/routes/index.js:28:9
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:335:12)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \')\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql:
+   'SELECT DISTINCT * FROM Profile WHERE phone_number = \'+994519427553\')' }
+[2018-07-23T21:39:34.112] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:39:34.122] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:39:37.126] [ERROR] logfile - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+    at Query.Sequence._packetToError (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+    at Query.ErrorPacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:279:23)
+    at Parser.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:103:28)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    --------------------
+    at Protocol._enqueue (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:145:48)
+    at Connection.query (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:208:25)
+    at module.exports (/Users/AliveIT/Desktop/GeoChatNODEJS/routes/login.js:20:8)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/routes/index.js:28:9
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:335:12)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \')\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql:
+   'SELECT DISTINCT * FROM Profile WHERE phone_number = \'+994519427553\')' }
+[2018-07-23T21:39:50.206] [ERROR] logfile - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+    at Query.Sequence._packetToError (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+    at Query.ErrorPacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:279:23)
+    at Parser.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:103:28)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    --------------------
+    at Protocol._enqueue (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:145:48)
+    at Connection.query (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:208:25)
+    at module.exports (/Users/AliveIT/Desktop/GeoChatNODEJS/routes/login.js:20:8)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/routes/index.js:28:9
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:335:12)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \')\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql:
+   'SELECT DISTINCT * FROM Profile WHERE phone_number = \'+994519427553\')' }
+[2018-07-23T21:40:32.819] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:40:32.827] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:40:35.043] [ERROR] logfile - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+    at Query.Sequence._packetToError (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+    at Query.ErrorPacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:279:23)
+    at Parser.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:103:28)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    --------------------
+    at Protocol._enqueue (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/protocol/Protocol.js:145:48)
+    at Connection.query (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/mysql/lib/Connection.js:208:25)
+    at module.exports (/Users/AliveIT/Desktop/GeoChatNODEJS/routes/login.js:20:8)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/routes/index.js:28:9
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/AliveIT/Desktop/GeoChatNODEJS/node_modules/express/lib/router/index.js:335:12)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \')\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql:
+   'SELECT DISTINCT * FROM Profile WHERE phone_number = +994519427553)' }
+[2018-07-23T21:42:26.769] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:42:26.777] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:42:32.289] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:43:59.089] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:43:59.096] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:44:01.596] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:44:18.452] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:44:18.460] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:44:20.818] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:46:19.182] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:46:19.190] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:46:23.081] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:46:46.719] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:46:46.729] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:46:48.758] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:48:18.470] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:48:18.478] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:48:20.733] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:48:33.245] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:48:33.254] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:48:36.745] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:49:56.148] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:49:56.156] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:50:00.753] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:50:18.924] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:50:18.933] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:50:21.368] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:50:41.837] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:50:41.845] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:50:43.752] [INFO] logfile - Access granted to +994519427553
+[2018-07-23T21:50:58.048] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:50:58.057] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:51:01.628] [INFO] logfile - Access granted to +994519427553
+[2018-07-23T21:51:42.754] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:51:42.763] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:51:46.063] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:58:16.978] [INFO] logfile - +994519427553 need to be proved
+[2018-07-23T21:58:32.493] [INFO] logfile - Server started on port 3000
+[2018-07-23T21:58:32.505] [INFO] logfile - Connected to MySQL database
+[2018-07-23T21:58:48.100] [INFO] logfile - Access granted to +994519427553
+[2018-07-23T22:18:55.239] [INFO] logfile - Server started on port 3000
+[2018-07-23T22:18:55.248] [INFO] logfile - Connected to MySQL database
+[2018-07-23T22:18:59.824] [INFO] logfile - Access granted to +994519427553
+[2018-07-23T22:20:06.956] [INFO] logfile - Server started on port 3000
+[2018-07-23T22:20:06.964] [INFO] logfile - Connected to MySQL database
+[2018-07-23T22:20:11.616] [INFO] logfile - Access granted to +994519427553
+[2018-07-23T22:25:23.172] [INFO] logfile - Server started on port 3000
+[2018-07-23T22:25:23.179] [INFO] logfile - Connected to MySQL database
+[2018-07-23T22:25:34.634] [INFO] logfile - +994519427553[object Object]
+[2018-07-26T14:01:11.964] [INFO] logfile - Server started on port 3000
+[2018-07-26T14:01:11.997] [INFO] logfile - Connected to MySQL database
+[2018-07-26T17:39:26.355] [INFO] logfile - Server started on port 3000
+[2018-07-26T17:39:26.365] [INFO] logfile - Connected to MySQL database
+[2018-07-26T18:07:10.060] [INFO] logfile - Server started on port 3000
+[2018-07-26T18:07:10.069] [INFO] logfile - Connected to MySQL database
+[2018-07-27T01:12:43.016] [INFO] logfile - Server started on port 3000
+[2018-07-27T01:13:04.116] [ERROR] logfile - null
+[2018-07-28T20:09:54.307] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:10:16.328] [ERROR] logfile - null
+[2018-07-28T20:35:48.770] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:35:56.848] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:38:02.206] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:38:02.216] [ERROR] logfile - null
+[2018-07-28T20:39:10.638] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:39:10.649] [ERROR] logfile - null
+[2018-07-28T20:39:14.919] [ERROR] logfile - +994519427553 Error: ER_DUP_ENTRY: Duplicate entry '+994519427553' for key 'phone_number_UNIQUE'
+[2018-07-28T20:41:33.044] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:41:33.052] [ERROR] logfile - null
+[2018-07-28T20:42:23.747] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:42:23.755] [ERROR] logfile - null
+[2018-07-28T20:43:26.557] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:43:26.565] [ERROR] logfile - null
+[2018-07-28T20:47:02.285] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:47:02.293] [ERROR] logfile - null
+[2018-07-28T20:51:58.368] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:51:58.377] [ERROR] logfile - null
+[2018-07-28T20:52:45.857] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:52:45.865] [ERROR] logfile - null
+[2018-07-28T20:52:48.468] [ERROR] logfile - +994519427553 Error: ER_DUP_ENTRY: Duplicate entry '+994519427553' for key 'phone_number_UNIQUE'
+[2018-07-28T20:53:34.691] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:53:34.700] [ERROR] logfile - null
+[2018-07-28T20:54:06.148] [INFO] logfile - Server started on port 3000
+[2018-07-28T20:54:06.156] [ERROR] logfile - null
+[2018-07-28T20:54:08.004] [INFO] logfile - Access granted to +994519427553
+[2018-07-28T21:14:05.441] [INFO] logfile - Server started on port 3000
+[2018-07-28T21:14:05.449] [ERROR] logfile - null
+[2018-07-28T21:17:26.668] [INFO] logfile - Server started on port 3000
+[2018-07-28T21:17:26.676] [ERROR] logfile - null
+[2018-07-28T21:19:02.464] [INFO] logfile - Server started on port 3000
+[2018-07-28T21:19:02.472] [ERROR] logfile - null
+[2018-07-28T21:25:06.602] [INFO] logfile - Server started on port 3000
+[2018-07-28T21:25:06.619] [ERROR] logfile - null
+[2018-07-28T21:30:22.711] [INFO] logfile - Server started on port 3000
+[2018-07-28T21:30:22.723] [ERROR] logfile - null
+[2018-07-29T00:28:23.336] [INFO] logfile - Server started on port 3000
+[2018-07-29T00:28:23.357] [ERROR] logfile - null
+[2018-07-29T00:28:51.950] [ERROR] logfile - undefined Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T00:42:50.659] [INFO] logfile - Server started on port 3000
+[2018-07-29T00:42:50.667] [ERROR] logfile - null
+[2018-07-29T00:43:17.583] [INFO] logfile - Server started on port 3000
+[2018-07-29T00:43:17.593] [ERROR] logfile - null
+[2018-07-29T00:43:31.219] [INFO] logfile - Server started on port 3000
+[2018-07-29T00:43:31.228] [ERROR] logfile - null
+[2018-07-29T00:51:11.545] [INFO] logfile - Server started on port 3000
+[2018-07-29T00:51:11.556] [ERROR] logfile - null
+[2018-07-29T01:16:20.074] [INFO] logfile - Server started on port 3000
+[2018-07-29T01:16:20.086] [ERROR] logfile - null
+[2018-07-29T01:21:28.053] [INFO] logfile - Server started on port 3000
+[2018-07-29T01:21:28.065] [ERROR] logfile - null
+[2018-07-29T01:27:23.802] [INFO] logfile - Server started on port 3000
+[2018-07-29T01:27:23.813] [ERROR] logfile - null
+[2018-07-29T01:33:33.878] [INFO] logfile - Server started on port 3000
+[2018-07-29T01:33:33.886] [ERROR] logfile - null
+[2018-07-29T01:34:22.251] [INFO] logfile - Access granted to +994519427553
+[2018-07-29T01:35:05.854] [ERROR] logfile - +994519427553 Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T01:36:29.933] [ERROR] logfile - +994519427553 Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T17:16:27.862] [INFO] logfile - Server started on port 3000
+[2018-07-29T17:16:27.874] [ERROR] logfile - null
+[2018-07-29T17:16:37.229] [ERROR] logfile - +994519427553 Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T17:16:39.476] [ERROR] logfile - +994519427553 Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T17:16:40.215] [ERROR] logfile - +994519427553 Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T17:16:40.801] [ERROR] logfile - +994519427553 Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T17:25:40.838] [INFO] logfile - Server started on port 3000
+[2018-07-29T17:25:40.854] [ERROR] logfile - null
+[2018-07-29T17:25:43.176] [ERROR] logfile - +994519427553 Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T17:26:20.583] [INFO] logfile - Server started on port 3000
+[2018-07-29T17:26:20.591] [ERROR] logfile - null
+[2018-07-29T17:26:22.521] [ERROR] logfile - +994519427553 Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+[2018-07-29T17:28:53.751] [INFO] logfile - Server started on port 3000
+[2018-07-29T17:28:53.758] [ERROR] logfile - null
+[2018-07-29T17:29:22.538] [INFO] logfile - Access granted to +994519427553
+[2018-07-29T17:29:29.175] [INFO] logfile - +994519427553 need to be proved
+[2018-07-29T17:29:54.415] [INFO] logfile - Server started on port 3000
+[2018-07-29T17:29:54.424] [ERROR] logfile - null
+[2018-07-29T18:19:52.874] [ERROR] logfile - +994519427000 Error: ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '2000-66-44' for column 'birthdate' at row 1
+[2018-07-29T18:23:15.342] [INFO] logfile - Server started on port 3000
+[2018-07-29T18:23:15.350] [ERROR] logfile - null
+[2018-07-29T18:24:14.686] [INFO] logfile - Server started on port 3000
+[2018-07-29T18:24:14.693] [ERROR] logfile - null
+[2018-07-29T18:27:13.273] [INFO] logfile - Server started on port 3000
+[2018-07-29T18:27:13.281] [ERROR] logfile - null
+[2018-07-29T18:29:39.096] [INFO] logfile - Server started on port 3000
+[2018-07-29T18:29:39.104] [ERROR] logfile - null
+[2018-07-29T18:29:52.966] [INFO] logfile - Server started on port 3000
+[2018-07-29T18:29:52.976] [ERROR] logfile - null
+[2018-07-29T18:32:03.751] [INFO] logfile - Server started on port 3000
+[2018-07-29T18:32:03.759] [ERROR] logfile - null
+[2018-07-29T18:35:59.884] [INFO] logfile - Server started on port 3000
+[2018-07-29T18:35:59.892] [ERROR] logfile - null
+[2018-07-29T18:36:04.621] [ERROR] logfile - +994519427000 Error: ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '2000-66-44' for column 'birthdate' at row 1
+[2018-07-29T19:24:35.699] [ERROR] logfile - +994519427000 Error: ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '2000-66-44' for column 'birthdate' at row 1
+[2018-07-29T19:24:44.128] [ERROR] logfile - +994519427000 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`geochata_db`.`profile`, CONSTRAINT `fk_profile_photo` FOREIGN KEY (`id`) REFERENCES `profile_photo` (`user_id`))
+[2018-07-29T19:24:45.438] [ERROR] logfile - +994519427000 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`geochata_db`.`profile`, CONSTRAINT `fk_profile_photo` FOREIGN KEY (`id`) REFERENCES `profile_photo` (`user_id`))
+[2018-07-29T19:25:32.445] [INFO] logfile - Server started on port 3000
+[2018-07-29T19:25:32.453] [ERROR] logfile - null
+[2018-07-29T19:25:35.433] [ERROR] logfile - +994519427000 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`geochata_db`.`profile`, CONSTRAINT `fk_profile_photo` FOREIGN KEY (`id`) REFERENCES `profile_photo` (`user_id`))
+[2018-07-29T19:45:45.888] [INFO] logfile - +994519427000[object Object]
+[2018-07-29T19:59:48.791] [INFO] logfile - Server started on port 3000
+[2018-07-29T19:59:48.799] [ERROR] logfile - null
+[2018-07-29T19:59:54.511] [ERROR] logfile - +994519427000 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (avatar) VALUE NULL' at line 2
+[2018-07-29T20:01:15.721] [INFO] logfile - Server started on port 3000
+[2018-07-29T20:01:15.729] [ERROR] logfile - null
+[2018-07-29T20:01:30.856] [INFO] logfile - Server started on port 3000
+[2018-07-29T20:01:30.866] [ERROR] logfile - null
+[2018-07-29T20:01:34.448] [ERROR] logfile - +994519427000 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo avatar VALUE 'saheufeiuasohfiughasgieairushgiudhaihfaw' at line 2
+[2018-07-29T20:11:15.019] [INFO] logfile - Server started on port 3000
+[2018-07-29T20:11:15.027] [ERROR] logfile - null
+[2018-07-29T20:11:17.190] [ERROR] logfile - +994519427000 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (avatar) VALUE ('saheufeiuasohfiughasgieairushgiudhaih' at line 2
+[2018-07-29T22:45:54.843] [INFO] logfile - Server started on port 3000
+[2018-07-29T22:45:54.858] [ERROR] logfile - null
+[2018-07-29T22:45:58.245] [ERROR] logfile - +994519427000 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO Profile_photo (avatar) VALUES ('\'saheufeiuasohfiughasgieairushgiudh' at line 2
+[2018-07-29T23:26:06.381] [INFO] logfile - Server started on port 3000
+[2018-07-29T23:26:06.390] [ERROR] logfile - null
+[2018-07-29T23:26:09.756] [ERROR] logfile - +994519427000 Error: ER_NO_DEFAULT_FOR_FIELD: Field 'user_id' doesn't have a default value
+[2018-07-29T23:30:24.651] [INFO] logfile - Server started on port 3000
+[2018-07-29T23:30:24.660] [ERROR] logfile - null
+[2018-07-29T23:30:40.579] [INFO] logfile - +994519427000[object Object],[object Object]
